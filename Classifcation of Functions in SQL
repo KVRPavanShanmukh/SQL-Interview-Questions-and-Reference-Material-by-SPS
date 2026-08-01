@@ -1,0 +1,30 @@
+SQL functions are commonly grouped into these categories:
+
+String Functions – Work with text.
+    CONCAT()
+    UPPER()
+    LOWER()
+    LENGTH()
+    SUBSTRING()
+    TRIM()
+    REPLACE()
+Aggregate Functions – Operate on multiple rows.
+    COUNT()
+    SUM()
+    AVG()
+    MIN()
+    MAX()
+Numeric Functions – Work with numbers.
+    ROUND()
+    CEIL()
+    FLOOR()
+    ABS()
+    MOD()
+Date and Time Functions
+    NOW()
+    CURDATE()
+    DATE()
+    DATEDIFF()
+Conversion Functions
+    CAST()
+    CONVERT()
